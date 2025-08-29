@@ -36,9 +36,9 @@ const developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
-![Elysia](https://img.shields.io/badge/Elysia-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-000000?style=for-the-badge&logo=bun&logoColor=pink)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![Ntex](https://img.shields.io/badge/Ntex-000000?style=for-the-badge&logo=rust&logoColor=orange)
 
 ### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,9 +58,9 @@ const developer = {
 ## 🐈‍⬛ GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pichxyaponn&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=pichxyaponn&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pichxyaponn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
-
 ## 🎯 Current Focus
 
 ```rust
